@@ -22,7 +22,6 @@ export default class App extends Component {
               </ul> */}
             </div>
           </nav>
-        </div>
         <div>
             <Grid items={this.state.courses}/>
         </div>
