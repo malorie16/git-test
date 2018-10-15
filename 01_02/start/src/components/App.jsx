@@ -13,6 +13,7 @@ export default class App extends Component {
     return (
       <div>
         <div className="navbar-fixed">
+          <nav className="blue lighten-2">
             <div className="nav-wrapper">
               <a href="#" className="brand-logo center">Courses</a>
               {/* <ul id="nav-mobile" className="left hide-on-med-and-down">
